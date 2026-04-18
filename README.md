@@ -46,7 +46,7 @@ winget upgrade --all
 ### Force + silent upgrade (recommended)
 
 ```powershell
-winget upgrade --all --silent --force --accept-package-agreements --accept-source-agreements
+winget upgrade --all --silent --force --accept-package-agreements --accept-source-agreements --disable-interactivity --include-unknown
 ```
 
 ### Upgrade specific package
