@@ -1,5 +1,5 @@
 
-### Show package details
+### :information_source: Show package details
 
 ```powershell
 winget show <name>
