@@ -1,16 +1,3 @@
-````markdown
-# 🧰 Winget Reference
-
-Quick reference for using Windows Package Manager (`winget`)
-
----
-
-## 🔍 Search & Info
-
-### Search for a package
-```powershell
-winget search <name>
-````
 
 ### Show package details
 
