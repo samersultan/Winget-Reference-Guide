@@ -154,9 +154,8 @@ winget upgrade --all
 
 ## ⚡ One-Liner (Full Update)
 
+Update everything (force + silent), include unknown packages
 ```powershell
-winget upgrade --all --silent --force --accept-package-agreements --accept-source-agreements --disable-interactivity
+winget upgrade --all --silent --force --accept-package-agreements --accept-source-agreements --disable-interactivity --include-unknown
 ```
 
-```
-```
